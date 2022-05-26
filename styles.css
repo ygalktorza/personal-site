@@ -27,7 +27,6 @@ body, html {
     margin: 0;
     padding: 10px;
     background: linear-gradient(blue,pink);
-    color: var(--text);
     font-family: var(--font);
 }
 
